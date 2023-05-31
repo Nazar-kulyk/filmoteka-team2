@@ -1,0 +1,26 @@
+@import './common';
+
+// base
+@import './base/reset';
+
+// utils
+@import './utils/variables';
+@import './utils/container';
+@import './utils/card-set';
+@import './utils/visually-hidden';
+
+// components
+@import './components/card-modal';
+@import './components/slider';
+// @import './components/spinner';
+@import './components/main-home';
+// @import './components/main-library';
+@import './components/header-home';
+@import './components/header-library';
+@import './components/footer';
+@import './components/card-markup';
+@import './components/theme';
+@import './components/tu-pagination';
+@import './components/team-modal';
+@import './components/loader-spinner';
+
